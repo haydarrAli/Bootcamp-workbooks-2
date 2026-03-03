@@ -19,4 +19,5 @@ I used the global database to do actual SQL tasks in addition to the textual wor
 
 Project Visuals:
 
-![description of the image](Screenshot 2026-03-03 at 11.48.14 AM.png) 
+![description of the image](week 3.png) 
+![description of the image](week 3.2.png) 
