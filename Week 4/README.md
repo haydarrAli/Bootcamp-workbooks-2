@@ -8,5 +8,5 @@ Topics covered
 - SMART goals
 - Overcoming barriers
 - Structured job search strategies
-- This week focused on preparing for industry readiness and career positioning.
+ This week focused on preparing for industry readiness and career positioning.
 
