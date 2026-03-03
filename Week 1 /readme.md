@@ -4,3 +4,4 @@ I worked in Excel to organise and analyse data by creating tables, sorting recor
 
 Project visuals
 ![description of the image](image12.png)
+![description of the image](imageb.png)
