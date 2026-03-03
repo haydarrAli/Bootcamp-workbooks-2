@@ -19,5 +19,5 @@ I used the global database to do actual SQL tasks in addition to the textual wor
 
 Project Visuals:
 
-![description of the image](week 3.png) 
-![description of the image](week 3.2.png) 
+![description of the image](image.png) 
+![description of the image](image13png) 
