@@ -1,4 +1,4 @@
-# Data Technician Workbook 3 - Database Design & SQL
+# Week 3 - Database Design & SQL
 
 ## Overview
 
