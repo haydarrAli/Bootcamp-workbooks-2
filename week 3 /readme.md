@@ -20,4 +20,4 @@ I used the global database to do actual SQL tasks in addition to the textual wor
 Project Visuals:
 
 ![description of the image](image2.png) 
-![description of the image](image13png) 
+![description of the image](image13.png) 
