@@ -1,5 +1,7 @@
 # Data Technician Bootcamp
 
+![description of the image](summary(1).png)
+
 I improved my technical abilities and gained greater self-assurance using data in real-world business situations throughout this Data Technician course. I gained practical experience with Excel, SQL, Python, Pandas, Tableau, Power BI, and Azure to clean, analyse, organise, and clearly present data. I gained a deeper understanding of the entire data workflow from raw data to insight and reporting through my work with spreadsheet analysis, pivot tables, formulae, dashboards, database design, SQL querying, Python data handling, cloud data concepts, and data protection principles.
 
 I gained confidence in my capacity to use data to assist decision-making as well as technical proficiency throughout the course. I created dashboards and visualisations, created relational database structures, examined sales, churn, revenue, health, music, and GDP information, performed SQL queries for business enquiries, and loaded, transformed, grouped, and explored data using Python and Pandas. Additionally, I improved my knowledge of cloud services, backup planning, GDPR, data security, and how to professionally and business-focusedly present findings to senior stakeholders.
