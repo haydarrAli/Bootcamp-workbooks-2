@@ -1,4 +1,4 @@
-# Data Technician Workbook 2 - Introduction to Tableau & Power BI
+# Week 2 - Introduction to Tableau & Power BI
 
 ## Overview
 

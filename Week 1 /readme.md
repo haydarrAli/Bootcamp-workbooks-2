@@ -1,4 +1,4 @@
-# Data Technician Workbook 1 - Introduction to Data & Excel
+# Week 1 - Introduction to Data & Excel
 
 ## Overview
 
